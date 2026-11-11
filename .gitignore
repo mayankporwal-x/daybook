@@ -1,0 +1,8 @@
+# Built app (./build.sh makes it)
+Daybook.app/
+# Personal data — never commit (the app keeps it in ~/Library/Application Support/Daybook)
+data/
+backup-*/
+*.log
+.DS_Store
+
